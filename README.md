@@ -138,4 +138,11 @@ Open the notebook in Jupyter Notebook or Google Colab and execute the cells sequ
 - Time series cross-validation  
 - Hyperparameter optimization  
 - Integration of exogenous macroeconomic indicators  
-- Extended robustness benchmarking  
+- Extended robustness benchmarking
+
+---
+
+## Repository Structure
+
+- main: Final validated forecasting framework and business-ready recommendation  
+- analysis: Exploratory modeling, parameter experimentation, and preliminary evaluation  
