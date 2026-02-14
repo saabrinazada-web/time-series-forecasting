@@ -76,6 +76,38 @@ These findings reinforce the importance of model diagnostics and structural asse
 
 ---
 
+## Business Interpretation
+
+From a business and strategic analysis perspective, GDP per capita forecasting provides structured insight into long-term economic trajectory. Reliable projections support macro-level planning, investment feasibility assessment, and risk evaluation.
+
+Model selection plays a critical role in ensuring forecast credibility. Overfitting seasonal components in structurally non-seasonal data may increase variance, while underfitting meaningful seasonal dynamics reduces predictive reliability. Therefore, model choice must balance statistical adequacy with structural realism.
+
+This comparative framework demonstrates how analytical rigor supports informed economic decision-making rather than relying solely on automated forecasting outputs.
+
+---
+
+## Deliverables
+
+This project produces the following analytical outputs:
+
+- Structured time series diagnostic evaluation  
+- Comparative ARIMA and SARIMAX performance metrics  
+- Residual behavior validation  
+- Out-of-sample forecast projections  
+- Model selection justification based on statistical evidence  
+
+These deliverables reflect a decision-oriented forecasting workflow suitable for business and policy-level analysis.
+
+---
+
+## Final Recommendation
+
+Based on residual diagnostics, information criteria comparison, and forecast stability assessment, the selected model demonstrates stronger statistical adequacy and predictive consistency.
+
+The recommendation prioritizes robustness and interpretability over unnecessary structural complexity, ensuring practical applicability for macroeconomic forecasting contexts.
+
+---
+
 ## Reproducibility
 
 To replicate the analysis:
